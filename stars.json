@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 56932,
+    "stargazers_count": 57022,
     "open_issues_count": 38,
-    "forks_count": 5821
+    "forks_count": 5834
   },
   {
     "full_name": "lerrua/remote-jobs-brazil",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 27739,
+    "stargazers_count": 27745,
     "open_issues_count": 46,
-    "forks_count": 2941
+    "forks_count": 2942
   },
   {
     "full_name": "dwyl/learn-json-web-tokens",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "resend/react-email",
-    "stargazers_count": 12417,
-    "open_issues_count": 70,
+    "stargazers_count": 12448,
+    "open_issues_count": 72,
     "forks_count": 558
   },
   {
@@ -49,69 +49,69 @@
   },
   {
     "full_name": "yanirs/established-remote",
-    "stargazers_count": 6815,
+    "stargazers_count": 6827,
     "open_issues_count": 0,
     "forks_count": 563
   },
   {
     "full_name": "billyjov/microfrontend-resources",
-    "stargazers_count": 689,
+    "stargazers_count": 690,
     "open_issues_count": 0,
     "forks_count": 80
   },
   {
     "full_name": "JedWatson/react-select",
-    "stargazers_count": 27254,
+    "stargazers_count": 27266,
     "open_issues_count": 402,
     "forks_count": 4090
   },
   {
     "full_name": "argyleink/gui-challenges",
-    "stargazers_count": 2695,
+    "stargazers_count": 2698,
     "open_issues_count": 40,
     "forks_count": 379
   },
   {
     "full_name": "micromata/awesome-javascript-learning",
-    "stargazers_count": 5163,
+    "stargazers_count": 5168,
     "open_issues_count": 0,
     "forks_count": 594
   },
   {
     "full_name": "0xRadi/OWASP-Web-Checklist",
-    "stargazers_count": 1530,
+    "stargazers_count": 1533,
     "open_issues_count": 2,
-    "forks_count": 310
+    "forks_count": 311
   },
   {
     "full_name": "kamranahmedse/design-patterns-for-humans",
-    "stargazers_count": 43419,
+    "stargazers_count": 43441,
     "open_issues_count": 11,
     "forks_count": 5104
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 7731,
+    "stargazers_count": 7735,
     "open_issues_count": 9,
-    "forks_count": 983
+    "forks_count": 984
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 83972,
+    "stargazers_count": 84079,
     "open_issues_count": 15,
-    "forks_count": 9134
+    "forks_count": 9145
   },
   {
     "full_name": "bespoyasov/frontend-clean-architecture",
-    "stargazers_count": 2261,
+    "stargazers_count": 2262,
     "open_issues_count": 1,
     "forks_count": 250
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 76846,
+    "stargazers_count": 76861,
     "open_issues_count": 46,
-    "forks_count": 7326
+    "forks_count": 7330
   },
   {
     "full_name": "JanVanRyswyck/awesome-talks",
@@ -121,62 +121,62 @@
   },
   {
     "full_name": "AllThingsSmitty/css-protips",
-    "stargazers_count": 27296,
+    "stargazers_count": 27304,
     "open_issues_count": 11,
     "forks_count": 2125
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 40997,
+    "stargazers_count": 41021,
     "open_issues_count": 121,
     "forks_count": 5074
   },
   {
     "full_name": "mbrlabs/Lorien",
-    "stargazers_count": 4947,
+    "stargazers_count": 4951,
     "open_issues_count": 63,
     "forks_count": 207
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 15951,
-    "open_issues_count": 170,
-    "forks_count": 1189
+    "stargazers_count": 16008,
+    "open_issues_count": 181,
+    "forks_count": 1197
   },
   {
     "full_name": "viraptor/reverse-interview",
-    "stargazers_count": 26694,
+    "stargazers_count": 26701,
     "open_issues_count": 26,
-    "forks_count": 2039
+    "forks_count": 2040
   },
   {
     "full_name": "InterviewReady/system-design-resources",
-    "stargazers_count": 14412,
+    "stargazers_count": 14446,
     "open_issues_count": 0,
-    "forks_count": 1731
+    "forks_count": 1739
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 28871,
-    "open_issues_count": 84,
+    "stargazers_count": 28901,
+    "open_issues_count": 83,
     "forks_count": 820
   },
   {
     "full_name": "triggerdotdev/jsonhero-web",
-    "stargazers_count": 8720,
+    "stargazers_count": 8724,
     "open_issues_count": 59,
-    "forks_count": 447
+    "forks_count": 449
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 89711,
+    "stargazers_count": 89733,
     "open_issues_count": 103,
-    "forks_count": 12026
+    "forks_count": 12031
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 16406,
+    "stargazers_count": 16409,
     "open_issues_count": 0,
-    "forks_count": 1202
+    "forks_count": 1204
   }
 ]
